@@ -4,31 +4,31 @@ Most modern projects you will want to use a UICONS link such as
 
 128x128 Optimized, with outlines and shadows
 
-https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/UICONS_OS_128/index.json
+https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/UICONS_OS_128/index.json
 
 512x512 Outlined and Shadows
 
-https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/UICONS_OS/index.json
+https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/UICONS_OS/index.json
 
 512x512
 
-https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/UICONS/index.json
+https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/UICONS/index.json
 
 RDM now uses local hosted UICONS format, periodically git pull to your server and configure appropriately
 
 PMSF Outlined + Shadows (128x128) Optimized.
 
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf_OS_128/';
+iconRepository = 'https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/pmsf_OS_128/';
 
 or download if using locally
 
 PMSF 512x512
 
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf/';
+iconRepository = 'https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/pmsf/';
 
 PMSF Outlines and shadows 512x512
 
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnHomeIcons/master/pmsf_outline_shadow/';
+iconRepository = 'https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeIcons/master/pmsf_outline_shadow/';
 
 
 The PMSF folder should also be compatible with some popular reporting bots (hence some duplicate images and sub folders.)
@@ -44,7 +44,7 @@ You may need to rebuild PMSF after replacing images, same as when you update you
 npm install && npm run build
 
 
-Any donations very welcome if you want to support my personal morale / upkeep of image repo's
+Thanks to NilePlumb for his work -> Any donations very welcome if you want to support my personal morale / upkeep of image repo's
 
 Paypal:
 
